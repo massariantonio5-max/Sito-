@@ -1,5 +1,7 @@
 # Sito — regole di lavoro
 
+Per creare o modificare pagine usa la skill `creazione-sito` (`.claude/skills/creazione-sito/`): contiene la procedura completa e lo script `scripts/verifica.sh`.
+
 ## Strumenti installati (in `.claude/skills/`)
 
 - `design-taste-frontend` (Taste Skill) — direzione artistica e regole anti-slop.

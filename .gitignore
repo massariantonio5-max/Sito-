@@ -1,2 +1,5 @@
 # Playwright CLI output (may contain credentials)
 .playwright-cli/
+
+# Screenshot di verifica
+screenshots/
